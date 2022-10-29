@@ -1,4 +1,4 @@
- Public Url to GitHub repository (not private)  https://github.com/ayarabih/udapeople.CICD
+ Public Url to GitHub repository (not private)  https://github.com/ayarabih/udapeople.CICD 
 ****************************
 Public URL for your S3 Bucket
 (https://us-east-1.console.aws.amazon.com/s3/buckets/udapeople-8604923?region=us-east-1&tab=objects)
